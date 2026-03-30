@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pranay </h1>
+<h3 align="center">CS Undergrad | Java Backend Developer | DSA Enthusiast</h3>
 
-<!--
-**pranayyyy6/pranayyyy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **B.Tech Computer Science** @ [Kalasalingam Academy of Research and Education]  
+🔭 Currently building: **Java Backend Projects**  
+🌱 Learning: **DSA | Java | Spring Boot**  
+💡 Solving problems on: **LeetCode**  
+📫 Reach me at: **[boddupranay8@gmail.com]**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayyyy6show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayyyy6&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com?user=pranayyyy6&theme=tokyonight)
+
+---
+
+### 💻 LeetCode Stats
+
+![LeetCode](https://leetcard.jacoblin.cool/pranayb8?theme=dark)
