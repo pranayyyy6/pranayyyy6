@@ -7,7 +7,6 @@
 🔭 Currently building: **Java Backend Projects**  
 🌱 Learning: **DSA | Java | Spring Boot**  
 💡 Solving problems on: **LeetCode**  
-📫 Reach me at: **[boddupranay8@gmail.com]**  
 
 ---
 
