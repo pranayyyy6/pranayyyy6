@@ -3,8 +3,7 @@
 
 ---
 
-🎓 **B.Tech Computer Science** @ [Kalasalingam Academy of Research and Education]  
-🔭 Currently building: **Java Backend Projects**  
+🎓 **B.Tech Computer Science** @ [Kalasalingam Academy of Research and Education]    
 🌱 Learning: **DSA | Java | Spring Boot**  
 💡 Solving problems on: **LeetCode**  
 
@@ -12,10 +11,20 @@
 
 ### 🛠️ Tech Stack
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+---
+
+## 🌱 Currently
+- Contributing to Open Source projects
+- Building Java Backend Projects
 
 ---
 
@@ -36,3 +45,6 @@
 ### 💻 LeetCode Stats
 
 ![LeetCode](https://leetcard.jacoblin.cool/pranayb8?theme=dark)
+
+## 📫 Connect
+- GitHub: [@pranayyyy6](https://github.com/pranayyyy6)
